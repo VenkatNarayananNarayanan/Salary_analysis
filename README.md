@@ -1,5 +1,7 @@
 Project : Salary analysis
+
 Discription : I made the salary analysis based on the dataset where I conveyed the report in an interactive version
+
 platform : Power BI 
 
 About the Dataset : This dataset contains information about the salaries of employees at a company. Each row represents 
